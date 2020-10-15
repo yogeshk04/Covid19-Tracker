@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\component",
+    "\\src\\app\\component\\countries",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\services\\data-service.service.ts",
+  "PreviewInSolutionExplorer": false
+}
